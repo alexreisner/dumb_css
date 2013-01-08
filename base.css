@@ -1,0 +1,43 @@
+/*
+ * Simple, reusable CSS styles.
+ * https://github.com/alexreisner/dumb_css
+*/
+
+/* element flow */
+.inline { display: inline; }
+.block { display: block; }
+.inline_block { display: inline-block; }
+
+/* alignment */
+.centered { text-align: center; }
+.align_left { text-align: left; }
+.align_right { text-align: right; }
+
+/* float */
+.float_left { float: left; }
+.float_right { float: right; }
+
+/* positioning */
+.position_static { position: static; }
+.position_absolute { position: absolute; }
+.position_relative { position: relative; }
+.position_fixed { position: fixed; }
+
+/* width */
+.width_100 { width: 100%; }
+
+/* text style */
+.italic { font-style: italic; }
+.bold { font-weight: bold; }
+.normal { font-weight: normal; }
+.uppercase { text-transform: uppercase; }
+
+/* color */
+.white { color: #fff; }
+.black { color: #000; }
+.white_bg { background-color: #fff; }
+.black_bg { background-color: #000; }
+
+/* margin and padding */
+.no_margin { margin: 0; }
+.no_padding { padding: 0; }
