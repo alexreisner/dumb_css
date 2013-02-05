@@ -7,6 +7,7 @@
 .inline { display: inline; }
 .block { display: block; }
 .inline_block { display: inline-block; }
+.hidden { display: none; }
 
 /* alignment */
 .centered { text-align: center; }
